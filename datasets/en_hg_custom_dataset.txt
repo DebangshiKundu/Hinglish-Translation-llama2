@@ -227,7 +227,7 @@ English: We value your feedback, so do share it in the comments.
 Hinglish: हम आपकी feedback को महत्वपूर्ण मानते हैं, इसलिए कृपया उसे comments में साझा करें।
 
 English: Don't forget to leave your comments and suggestions below.
-Hinglish: नीचे अपने comments और suggestions छोड़ना मत भूलें।
+Hinglish: नीचे अपने comments और suggestions छोड़ना मत भूलें
 
 
 
