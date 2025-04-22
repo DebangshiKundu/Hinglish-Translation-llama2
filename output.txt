@@ -6,7 +6,7 @@ LLAMA-2 Hinglish transaltion results on custom dataset(Generated with ChatGPT):
  English: I was waiting for my bag.
  Hinglish: मैं अपनी bag का इंतजार कर रहा था।
 
- English: So even if it's a big video, I will clearly mention all the products.
+ English: So even if it's a big video, I will clearly mention all the products. 
  Hinglish: हे बड़े video के बारे में सभी products को क्लेअर करने के लिए बेताब हो स।
 
  English: My name is Yatharth Anand.
