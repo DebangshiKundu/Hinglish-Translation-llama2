@@ -6,7 +6,7 @@ library_name: peft
 
 The following `bitsandbytes` quantization config was used during training:
 - load_in_8bit: False
-- load_in_4bit: True
+- load_in_4bit: True 
 - llm_int8_threshold: 6.0
 - llm_int8_skip_modules: None
 - llm_int8_enable_fp32_cpu_offload: False
